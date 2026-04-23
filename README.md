@@ -29,7 +29,7 @@ A modern Pomodoro mobile app built with React Native and Expo.
 - Clean modern mobile UI
 ## App Preview
 
-![FocusFlow Pomodoro App](screenshots/app-preview.png)
+![FocusFlow Pomodoro App](screenshots/app-preview.jpg)
 
 ## Author
 
