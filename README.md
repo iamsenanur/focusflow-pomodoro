@@ -27,6 +27,9 @@ A modern Pomodoro mobile app built with React Native and Expo.
 - Task-based session tracking
 - Case-insensitive task summary
 - Clean modern mobile UI
+## App Preview
+
+![FocusFlow Pomodoro App](screenshots/app-preview.png)
 
 ## Author
 
